@@ -1,3 +1,6 @@
+# It's the very basic and simple calculator
+# For extremely beginners
+
 a = 10
 b = 5
 print("The value of", a,"+", b,"is", a+b);
