@@ -1,4 +1,5 @@
 # Taking input from user
+
 a = input("Enter your name: ")
 print("My name is: ",a)
 
@@ -9,3 +10,10 @@ print(b+c)
 print(int(b)+int(c))
 print(int(b)+int(d))
 
+# OUTPUT:---
+# Enter your name: biprojit
+# My name is:  biprojit
+# Enter first number: 10
+# Enter second number: 20 
+# 1020
+# 30
