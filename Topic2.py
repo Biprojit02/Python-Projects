@@ -1,3 +1,5 @@
+# Here I'm explaining different types of variable and daratype in python
+
 a = 5  #integer
 b = 5.5  #float
 c = "Biprojit"  #string
